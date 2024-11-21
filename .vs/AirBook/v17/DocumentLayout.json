@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\models\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:models\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Aerolinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Aerolinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\models\\itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:models\\itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\models\\aerolinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:models\\aerolinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\models\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:models\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +29,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 779,
+          "DockedWidth": 69,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -42,27 +42,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Aerolinea.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Aerolinea.cs",
               "RelativeDocumentMoniker": "Models\\Aerolinea.cs",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Aerolinea.cs",
               "RelativeToolTip": "Models\\Aerolinea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:55.178Z"
+              "WhenOpened": "2024-11-18T23:21:55.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Itinerario.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Itinerario.cs",
               "RelativeDocumentMoniker": "Models\\Itinerario.cs",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Itinerario.cs",
               "RelativeToolTip": "Models\\Itinerario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:45.624Z"
+              "WhenOpened": "2024-11-18T23:21:45.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,34 +74,36 @@
               "RelativeDocumentMoniker": "Models\\Pasajero.cs",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Pasajero.cs",
               "RelativeToolTip": "Models\\Pasajero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T23:21:32.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Reserva.cs",
               "RelativeToolTip": "Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:22.536Z"
+              "WhenOpened": "2024-11-18T23:21:22.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Vuelo.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Vuelo.cs",
               "RelativeDocumentMoniker": "Models\\Vuelo.cs",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Vuelo.cs",
               "RelativeToolTip": "Models\\Vuelo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:13.031Z"
+              "WhenOpened": "2024-11-18T23:21:13.031Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -114,7 +118,7 @@
           ]
         },
         {
-          "DockedWidth": 789,
+          "DockedWidth": 1499,
           "SelectedChildIndex": -1,
           "Children": [
             {
