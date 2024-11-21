@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using AirBook.Data;
+using AirBook.Data.AirBook.Data;
+
 namespace AirBook
 {
     public class Program
@@ -8,6 +12,10 @@ namespace AirBook
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+
+            // Add the database context.
+            builder.Services.AddDbContext<AirBookContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("AirBookDB")));
 
             var app = builder.Build();
 
@@ -32,3 +40,4 @@ namespace AirBook
         }
     }
 }
+
