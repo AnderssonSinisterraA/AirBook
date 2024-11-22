@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+127bd6f1903a4d7dd45762355998eeaaeea02d78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f988c52e6e403069ae6a10509b2112a779404f57")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
