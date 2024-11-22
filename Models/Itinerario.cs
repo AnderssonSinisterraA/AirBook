@@ -2,9 +2,9 @@
 {
     public class Itinerario
     {
-        public int IdItinerario { get; set; } // Llave primaria
+        public int IdItinerario { get; set; } // Clave primaria
         public int IdReserva { get; set; }
         public string Detalle { get; set; }
-        public Reserva Reserva { get; set; }
+        public Reserva? Reserva { get; set; }
     }
 }
