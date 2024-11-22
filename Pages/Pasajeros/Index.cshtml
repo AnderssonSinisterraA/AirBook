@@ -1,0 +1,39 @@
+﻿@page
+@model AirBook.Pages.Pasajeros.IndexModel
+@{
+    ViewData["Title"] = "Pasajeros";
+}
+
+<h1>Pasajeros</h1>
+
+<p>
+    <a asp-page="./Create" class="btn btn-primary">Crear Nuevo Pasajero</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Telefono</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Pasajeros)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.Email</td>
+                <td>@item.Telefono</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdPasajero" class="btn btn-secondary">Editar</a> |
+                    <a asp-page="./Details" asp-route-id="@item.IdPasajero" class="btn btn-info">Detalles</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.IdPasajero" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

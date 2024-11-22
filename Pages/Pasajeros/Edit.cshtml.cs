@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using System.Linq;
+using AirBook.Data.AirBook.Data;
 
 namespace AirBook.Pages.Pasajeros
 {

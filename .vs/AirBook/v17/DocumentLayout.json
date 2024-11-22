@@ -3,60 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\pasajeros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajeros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\itinerario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\aerolinea\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\aerolinea\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,8 +82,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 552,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajeros\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:24:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajeros\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:24:10.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Pasajeros\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T04:24:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajeros\\Details.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:23:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajeros\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:23:12.481Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -78,184 +159,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Aerolinea\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:06:40.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Index.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Aerolinea\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T03:06:18.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Aerolinea\\Edit.cshtml.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:05:43.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Aerolinea\\Edit.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T03:04:06.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Aerolinea\\Details.cshtml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwB8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:03:32.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Details.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Aerolinea\\Details.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAB8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:58:34.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Aerolinea\\Delete.cshtml.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowC0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:51:24.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Aerolinea\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:48:44.629Z",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajeros\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:22:21.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Aerolinea\\Create.cshtml.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:47:56.602Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Pasajeros\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T04:22:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pasajeros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Pasajeros\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Pasajeros\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T03:53:39.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Aerolinea\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Itinerario\\Create.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:46:24.972Z",
+              "WhenOpened": "2024-11-22T03:24:47.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Itinerario\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Itinerario\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:44:18.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Itinerario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Itinerario\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:43:12.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:14:20.037Z",
+              "WhenOpened": "2024-11-22T03:23:07.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:58.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Edit.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:55.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:51.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAABRwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T04:03:34.141Z",
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:47.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Itinerario\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Aerolinea\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Aerolinea\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:23.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Aerolinea\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Aerolinea\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Aerolinea\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:15.772Z",
               "EditorCaption": ""
             }
           ]
