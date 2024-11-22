@@ -1,0 +1,38 @@
+﻿@page
+@model AirBook.Pages.Vuelos.CreateModel
+
+<h2>Crear Vuelo</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Vuelo.NumeroVuelo"></label>
+        <input asp-for="Vuelo.NumeroVuelo" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Vuelo.AerolineaId"></label>
+        <input asp-for="Vuelo.AerolineaId" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Vuelo.Origen"></label>
+        <input asp-for="Vuelo.Origen" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Vuelo.Destino"></label>
+        <input asp-for="Vuelo.Destino" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Vuelo.HoraSalida"></label>
+        <input asp-for="Vuelo.HoraSalida" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Vuelo.HoraLlegada"></label>
+        <input asp-for="Vuelo.HoraLlegada" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Vuelo.Precio"></label>
+        <input asp-for="Vuelo.Precio" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear</button>
+</form>
+
+<a asp-page="./Index">Volver a la lista</a>
