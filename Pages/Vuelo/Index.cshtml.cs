@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Reservas
+namespace AirBook.Pages.Vuelos
 {
     public class IndexModel : PageModel
     {
@@ -17,14 +17,11 @@ namespace AirBook.Pages.Reservas
             _context = context;
         }
 
-        public IList<AirBook.Models.Reserva> Reservas { get; set; }
+        public IList<AirBook.Models.Vuelo> Vuelos { get; set; }
 
         public async Task OnGetAsync()
         {
-            Reservas = await _context.Reservas
-                .Include(r => r.Pasajero)
-                .Include(r => r.Vuelo)
-                .ToListAsync();
+            Vuelos = await _context.Vuelos.ToListAsync();
         }
     }
 }

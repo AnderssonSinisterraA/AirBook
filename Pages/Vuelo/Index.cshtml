@@ -1,0 +1,36 @@
+﻿@page
+@model AirBook.Pages.Vuelos.IndexModel
+
+<h2>Lista de Vuelos</h2>
+
+<p>
+    <a asp-page="./Create">Crear Nuevo Vuelo</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Numero Vuelo</th>
+            <th>Aerolinea</th>
+            <th>Origen</th>
+            <th>Destino</th>
+            <th>Hora Salida</th>
+            <th>Hora Llegada</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Vuelos)
+        {
+            <tr>
+                <td>@item.NumeroVuelo</td>
+                <td>@item.AerolineaId</td>
+                <td>@item.Origen</td>
+                <td>@item.Destino</td>
+                <td>@item.HoraSalida</td>
+                <td>@item.HoraLlegada</td>
+                <td>@item.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>

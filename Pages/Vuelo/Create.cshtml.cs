@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using AirBook.Data;
 using AirBook.Models;
+using AirBook.Data.AirBook.Data;
 
 namespace AirBook.Pages.Vuelos
 {
