@@ -3,9 +3,10 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using AirBook.Data;
 using AirBook.Models;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Aerolineas
+namespace AirBook.Pages.Itinerarios
 {
     public class DeleteModel : PageModel
     {
@@ -17,13 +18,15 @@ namespace AirBook.Pages.Aerolineas
         }
 
         [BindProperty]
-        public AirBook.Models.Aerolinea Aerolinea { get; set; }
+        public AirBook.Models.Itinerario Itinerario { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int id)
         {
-            Aerolinea = await _context.Aerolineas.FindAsync(id);
+            Itinerario = await _context.Itinerarios
+                .Include(i => i.Reserva)
+                .FirstOrDefaultAsync(m => m.IdItinerario == id);
 
-            if (Aerolinea == null)
+            if (Itinerario == null)
             {
                 return NotFound();
             }
@@ -32,11 +35,11 @@ namespace AirBook.Pages.Aerolineas
 
         public async Task<IActionResult> OnPostAsync(int id)
         {
-            Aerolinea = await _context.Aerolineas.FindAsync(id);
+            Itinerario = await _context.Itinerarios.FindAsync(id);
 
-            if (Aerolinea != null)
+            if (Itinerario != null)
             {
-                _context.Aerolineas.Remove(Aerolinea);
+                _context.Itinerarios.Remove(Itinerario);
                 await _context.SaveChangesAsync();
             }
 

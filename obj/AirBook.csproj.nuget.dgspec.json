@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ansa0317\\source\\repos\\AirBook\\AirBook.csproj": {}
+    "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\AirBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ansa0317\\source\\repos\\AirBook\\AirBook.csproj": {
+    "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\AirBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\AirBook.csproj",
+        "projectUniqueName": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\AirBook.csproj",
         "projectName": "AirBook",
-        "projectPath": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\AirBook.csproj",
-        "packagesPath": "C:\\Users\\ansa0317\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\obj\\",
+        "projectPath": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\AirBook.csproj",
+        "packagesPath": "C:\\Users\\samir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ansa0317\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,17 +46,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
@@ -90,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,10 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using AirBook.Data;
 using AirBook.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Aerolineas
+namespace AirBook.Pages.Itinerarios
 {
     public class DetailsModel : PageModel
     {
@@ -16,13 +17,15 @@ namespace AirBook.Pages.Aerolineas
             _context = context;
         }
 
-        public AirBook.Models.Aerolinea Aerolinea { get; set; }
+        public AirBook.Models.Itinerario Itinerario { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int id)
         {
-            Aerolinea = await _context.Aerolineas.FindAsync(id);
+            Itinerario = await _context.Itinerarios
+                .Include(i => i.Reserva)
+                .FirstOrDefaultAsync(m => m.IdItinerario == id);
 
-            if (Aerolinea == null)
+            if (Itinerario == null)
             {
                 return NotFound();
             }

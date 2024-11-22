@@ -1,4 +1,27 @@
-﻿@page
-@model AirBook.Pages.Aerolinea.DeleteModel
+﻿@page "{id:int}"
+@model AirBook.Pages.Aerolineas.DeleteModel
 @{
+    ViewData["Title"] = "Eliminar Aerolínea";
 }
+
+<h1>Eliminar Aerolínea</h1>
+
+<h3>¿Está seguro que desea eliminar esta aerolínea?</h3>
+<div>
+    <h4>Aerolínea</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Aerolinea.NombreAerolinea)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Aerolinea.NombreAerolinea)
+        </dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Aerolinea.IdAerolinea" />
+        <button type="submit" class="btn btn-danger">Eliminar</button> |
+        <a asp-page="./Index">Cancelar</a>
+    </form>
+</div>

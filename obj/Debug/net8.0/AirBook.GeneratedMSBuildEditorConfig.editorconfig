@@ -54,6 +54,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/samir/OneDrive/Escritorio/Airbook/Pages/Itinerario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samir/OneDrive/Escritorio/Airbook/Pages/Itinerario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samir/OneDrive/Escritorio/Airbook/Pages/Itinerario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samir/OneDrive/Escritorio/Airbook/Pages/Itinerario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samir/OneDrive/Escritorio/Airbook/Pages/Itinerario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/samir/OneDrive/Escritorio/Airbook/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

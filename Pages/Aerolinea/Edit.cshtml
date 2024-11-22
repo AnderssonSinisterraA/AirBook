@@ -1,4 +1,24 @@
 ﻿@page
-@model AirBook.Pages.Aerolinea.EditModel
+@model AirBook.Pages.Aerolineas.EditModel
 @{
+    ViewData["Title"] = "Editar Aerolínea";
+}
+
+<h1>Editar Aerolínea</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Aerolinea.NombreAerolinea" class="control-label"></label>
+        <input asp-for="Aerolinea.NombreAerolinea" class="form-control" />
+        <span asp-validation-for="Aerolinea.NombreAerolinea" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="Aerolinea.IdAerolinea" />
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-page="./Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

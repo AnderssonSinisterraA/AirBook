@@ -1,0 +1,41 @@
+﻿@page
+@model AirBook.Pages.Itinerarios.IndexModel
+@{
+    ViewData["Title"] = "Lista de Itinerarios";
+}
+
+<h1>Lista de Itinerarios</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Itinerarios[0].IdReserva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Itinerarios[0].Detalle)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Itinerarios)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdReserva)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Detalle)
+                </td>
+                <td>
+                    <a asp-page="./Details" asp-route-id="@item.IdItinerario">Detalles</a> |
+                    <a asp-page="./Edit" asp-route-id="@item.IdItinerario">Editar</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.IdItinerario">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="./Create">Crear Nuevo Itinerario</a>

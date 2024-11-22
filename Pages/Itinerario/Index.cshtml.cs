@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using AirBook.Data;
@@ -7,7 +6,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Aerolineas
+namespace AirBook.Pages.Itinerarios
 {
     public class IndexModel : PageModel
     {
@@ -18,11 +17,13 @@ namespace AirBook.Pages.Aerolineas
             _context = context;
         }
 
-        public IList<AirBook.Models.Aerolinea> Aerolineas { get; set; }
+        public IList<AirBook.Models.Itinerario> Itinerarios { get; set; }
 
         public async Task OnGetAsync()
         {
-            Aerolineas = await _context.Aerolineas.ToListAsync();
+            Itinerarios = await _context.Itinerarios
+                .Include(i => i.Reserva)
+                .ToListAsync();
         }
     }
 }

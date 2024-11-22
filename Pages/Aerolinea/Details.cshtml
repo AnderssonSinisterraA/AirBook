@@ -1,4 +1,32 @@
-﻿@page
-@model AirBook.Pages.Aerolinea.DetailsModel
+﻿@page "{id:int}"
+@model AirBook.Pages.Aerolineas.DetailsModel
 @{
+    ViewData["Title"] = "Detalles de la Aerolínea";
 }
+
+<h1>Detalles de la Aerolínea</h1>
+
+<div class="details-container">
+    <h2>Aerolínea</h2>
+    <div class="detail-item">
+        <strong>@Html.DisplayNameFor(model => model.Aerolinea.NombreAerolinea):</strong>
+        <span>@Html.DisplayFor(model => model.Aerolinea.NombreAerolinea)</span>
+    </div>
+</div>
+
+<p>
+    <a asp-page="./Edit" asp-route-id="@Model.Aerolinea.IdAerolinea" class="btn btn-primary">Editar</a>
+    <a asp-page="./Index" class="btn btn-secondary">Volver a la lista</a>
+</p>
+
+<style>
+    .details-container {
+        margin-top: 20px;
+    }
+    .detail-item {
+        margin-bottom: 10px;
+    }
+    .btn {
+        margin-right: 10px;
+    }
+</style>

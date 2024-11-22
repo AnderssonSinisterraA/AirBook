@@ -1,4 +1,33 @@
 ﻿@page
-@model AirBook.Pages.Aerolinea.IndexModel
+@model AirBook.Pages.Aerolineas.IndexModel
 @{
+    ViewData["Title"] = "Lista de Aerolíneas";
 }
+
+<h2>Lista de Aerolíneas</h2>
+
+<p>
+    <a asp-page="./Create" class="btn btn-primary">Crear Nuevo Pasajero</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre de la Aerolínea</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Aerolineas)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.NombreAerolinea)</td>
+                <td>
+                    <a class="btn btn-info" href="@Url.Page("Details", new { id = item.IdAerolinea })">Detalles</a>
+                    <a class="btn btn-warning" href="@Url.Page("Edit", new { id = item.IdAerolinea })">Editar</a>
+                    <a class="btn btn-danger" href="@Url.Page("Delete", new { id = item.IdAerolinea })">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
