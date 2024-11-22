@@ -1,0 +1,52 @@
+﻿@page
+@model AirBook.Pages.Reservas.IndexModel
+@{
+    ViewData["Title"] = "Lista de Reservas";
+}
+
+<h1>Lista de Reservas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Reservas[0].IdPasajero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reservas[0].IdVuelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reservas[0].FechaReserva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reservas[0].Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Reservas)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pasajero.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vuelo.NumeroVuelo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaReserva)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdReserva">Editar</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.IdReserva">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="./Create">Crear Nueva Reserva</a>
