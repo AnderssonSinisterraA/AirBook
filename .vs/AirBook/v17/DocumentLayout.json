@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\vuelo\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\samir\\onedrive\\escritorio\\airbook\\pages\\vuelo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -79,19 +91,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:08:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:01:53.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Vuelo\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Vuelo\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:00:43.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Details.cshtml",
               "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Details.cshtml",
               "RelativeToolTip": "Pages\\Vuelo\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-23T16:00:01.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Delete.cshtml",
@@ -104,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Vuelo.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Models\\Vuelo.cs",
               "RelativeDocumentMoniker": "Models\\Vuelo.cs",
@@ -117,12 +168,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Delete.cshtml.cs*",
-              "RelativeToolTip": "Pages\\Vuelo\\Delete.cshtml.cs*",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Vuelo\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T14:52:41.024Z",
@@ -130,12 +181,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Delete.cshtml*",
-              "RelativeToolTip": "Pages\\Vuelo\\Delete.cshtml*",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Vuelo\\Delete.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAAABQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-23T14:51:34.179Z",
@@ -143,12 +194,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Edit.cshtml.cs*",
-              "RelativeToolTip": "Pages\\Vuelo\\Edit.cshtml.cs*",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Vuelo\\Edit.cshtml.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAowE0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T14:49:15.017Z",
@@ -156,12 +207,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Edit.cshtml*",
-              "RelativeToolTip": "Pages\\Vuelo\\Edit.cshtml*",
+              "ToolTip": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Vuelo\\Edit.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-23T14:48:13.405Z",
@@ -169,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Index.cshtml.cs",
@@ -182,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Vuelo\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Create.cshtml.cs",
@@ -195,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Index.cshtml",
@@ -208,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Index.cshtml.cs",
@@ -221,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Edit.cshtml.cs",
@@ -234,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Details.cshtml.cs",
@@ -255,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Details.cshtml",
@@ -268,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Delete.cshtml.cs",
@@ -281,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\samir\\OneDrive\\Escritorio\\Airbook\\Pages\\Reserva\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Create.cshtml.cs",

@@ -1,10 +1,28 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home - AirBook";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Bienvenido a AirBook</h1>
+    <p class="lead">Gestione sus reservas de vuelos de manera fácil y rápida.</p>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Buscar Vuelos</h2>
+            <p>Encuentra y reserva vuelos a tu destino preferido.</p>
+            <p><a class="btn btn-primary" href="/Vuelo">Buscar Vuelos &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Mis Reservas</h2>
+            <p>Administra tus reservas de vuelos.</p>
+            <p><a class="btn btn-primary" href="/Reserva">Ver Reservas &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Información de Pasajeros</h2>
+            <p>Gestiona la información de los pasajeros.</p>
+            <p><a class="btn btn-primary" href="/Pasajeros">Gestionar Pasajeros &raquo;</a></p>
+        </div>
+    </div>
 </div>
