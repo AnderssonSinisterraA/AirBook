@@ -1,0 +1,21 @@
+﻿@page
+@model AirBook.Pages.Reservas.DeleteModel
+@{
+    ViewData["Title"] = "Eliminar Reserva";
+}
+
+<h1>Eliminar Reserva</h1>
+
+<h4>Reserva</h4>
+<hr />
+<div>
+    <h4>¿Estás seguro que deseas eliminar esta reserva?</h4>
+    <div>
+        <h5>Pasajero: @Model.Reserva.Pasajero.Nombre</h5>
+        <h5>Vuelo: @Model.Reserva.Vuelo?.NumeroVuelo</h5>
+    </div>
+    <form method="post">
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-page="./Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

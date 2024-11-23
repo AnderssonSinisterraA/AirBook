@@ -1,0 +1,59 @@
+﻿@page
+@model AirBook.Pages.Vuelos.DetailsModel
+@{
+    ViewData["Title"] = "Detalles del Vuelo";
+}
+
+<h1>Detalles del Vuelo</h1>
+
+<div>
+    <h4>Vuelo</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Número de Vuelo
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.NumeroVuelo
+        </dd>
+        <dt class="col-sm-2">
+            Aerolínea
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.Aerolinea.NombreAerolinea
+        </dd>
+        <dt class="col-sm-2">
+            Origen
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.Origen
+        </dd>
+        <dt class="col-sm-2">
+            Destino
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.Destino
+        </dd>
+        <dt class="col-sm-2">
+            Hora de Salida
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.HoraSalida
+        </dd>
+        <dt class="col-sm-2">
+            Hora de Llegada
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.HoraLlegada
+        </dd>
+        <dt class="col-sm-2">
+            Precio
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Vuelo.Precio
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Index" class="btn btn-secondary">Volver a la lista</a>
+</div>

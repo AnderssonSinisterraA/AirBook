@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ansa0317\source\repos\AirBook
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Aerolinea/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWVyb2xpbmVhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Aerolinea/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWVyb2xpbmVhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Aerolinea/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWVyb2xpbmVhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Aerolinea/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWVyb2xpbmVhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Aerolinea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWVyb2xpbmVhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ansa0317/source/repos/AirBook/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,12 +54,92 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Itinerario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Itinerario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Itinerario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Itinerario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Itinerario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRpbmVyYXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Pasajero/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzYWplcm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Pasajero/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzYWplcm9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Pasajero/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzYWplcm9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Pasajero/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzYWplcm9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Pasajero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzYWplcm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ansa0317/source/repos/AirBook/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Reserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Reserva/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Reserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Reserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Reserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ansa0317/source/repos/AirBook/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Vuelo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVnVlbG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Vuelo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVnVlbG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Vuelo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVnVlbG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Vuelo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVnVlbG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ansa0317/source/repos/AirBook/Pages/Vuelo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVnVlbG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ansa0317/source/repos/AirBook/Pages/_ViewImports.cshtml]

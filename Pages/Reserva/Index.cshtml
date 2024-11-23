@@ -1,0 +1,39 @@
+﻿@page
+@model AirBook.Pages.Reservas.IndexModel
+@{
+    ViewData["Title"] = "Lista de Reservas";
+}
+
+<h1>Lista de Reservas</h1>
+
+<a asp-page="./Create" class="btn btn-success">Crear Nueva Reserva</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>IdReserva</th>
+            <th>Pasajero</th>
+            <th>Vuelo</th>
+            <th>FechaReserva</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Reservas)
+        {
+            <tr>
+                <td>@item.IdReserva</td>
+                <td>@item.Pasajero.Nombre</td>
+                <td>@item.Vuelo?.NumeroVuelo</td>
+                <td>@item.FechaReserva</td>
+                <td>@item.Estado</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdReserva" class="btn btn-warning">Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.IdReserva" class="btn btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.IdReserva" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

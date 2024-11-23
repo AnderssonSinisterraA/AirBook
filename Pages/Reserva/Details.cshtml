@@ -1,0 +1,41 @@
+﻿@page
+@model AirBook.Pages.Reservas.DetailsModel
+@{
+    ViewData["Title"] = "Detalles de la Reserva";
+}
+
+<h1>Detalles de la Reserva</h1>
+
+<div>
+    <h4>Reserva</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Pasajero
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Reserva.Pasajero.Nombre
+        </dd>
+        <dt class="col-sm-2">
+            Vuelo
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Reserva.Vuelo?.NumeroVuelo
+        </dd>
+        <dt class="col-sm-2">
+            Fecha de Reserva
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Reserva.FechaReserva
+        </dd>
+        <dt class="col-sm-2">
+            Estado
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Reserva.Estado
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Index" class="btn btn-secondary">Volver a la lista</a>
+</div>
