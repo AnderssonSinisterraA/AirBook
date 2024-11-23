@@ -1,4 +1,5 @@
 using AirBook.Data;
+using AirBook.Data.AirBook.Data;
 using AirBook.Models;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -15,7 +16,7 @@ namespace AirBook.Pages.Pasajeros
             _context = context;
         }
 
-        public IList<Pasajero> Pasajeros { get; set; }
+        public IList<AirBook.Models.Pasajero> Pasajeros { get; set; }
 
         public async Task OnGetAsync()
         {

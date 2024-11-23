@@ -4,6 +4,7 @@ using AirBook.Data;
 using AirBook.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
+using AirBook.Data.AirBook.Data;
 
 namespace AirBook.Pages.Itinerarios
 {

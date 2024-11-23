@@ -1,13 +1,13 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
 using AirBook.Data;
 using AirBook.Models;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using System.Linq;
 using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Itinerarios
+namespace AirBook.Pages.Pasajeros
 {
     public class EditModel : PageModel
     {
@@ -19,21 +19,16 @@ namespace AirBook.Pages.Itinerarios
         }
 
         [BindProperty]
-        public AirBook.Models.Itinerario Itinerario { get; set; }
+        public AirBook.Models.Pasajero Pasajero { get; set; }
 
-        public IActionResult OnGet(int id)
+        public async Task<IActionResult> OnGetAsync(int id)
         {
-            Itinerario = _context.Itinerarios
-                .Include(i => i.Reserva)
-                .FirstOrDefault(m => m.IdItinerario == id);
+            Pasajero = await _context.Pasajeros.FindAsync(id);
 
-            if (Itinerario == null)
+            if (Pasajero == null)
             {
                 return NotFound();
             }
-
-            ViewData["ReservaId"] = new SelectList(_context.Reservas, "IdReserva", "IdReserva");
-
             return Page();
         }
 
@@ -44,7 +39,13 @@ namespace AirBook.Pages.Itinerarios
                 return Page();
             }
 
-            _context.Attach(Itinerario).State = EntityState.Modified;
+            // Verifica que el IdPasajero no tenga un valor temporal
+            if (Pasajero.IdPasajero == 0)
+            {
+                return BadRequest("Invalid Pasajero ID.");
+            }
+
+            _context.Attach(Pasajero).State = EntityState.Modified;
 
             try
             {
@@ -52,7 +53,7 @@ namespace AirBook.Pages.Itinerarios
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!ItinerarioExists(Itinerario.IdItinerario))
+                if (!PasajeroExists(Pasajero.IdPasajero))
                 {
                     return NotFound();
                 }
@@ -65,9 +66,9 @@ namespace AirBook.Pages.Itinerarios
             return RedirectToPage("./Index");
         }
 
-        private bool ItinerarioExists(int id)
+        private bool PasajeroExists(int id)
         {
-            return _context.Itinerarios.Any(e => e.IdItinerario == id);
+            return _context.Pasajeros.Any(e => e.IdPasajero == id);
         }
     }
 }

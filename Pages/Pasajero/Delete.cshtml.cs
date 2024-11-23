@@ -1,12 +1,11 @@
+using AirBook.Data;
+using AirBook.Data.AirBook.Data;
+using AirBook.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using AirBook.Data;
-using AirBook.Models;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Itinerarios
+
+namespace AirBook.Pages.Pasajeros
 {
     public class DeleteModel : PageModel
     {
@@ -18,15 +17,13 @@ namespace AirBook.Pages.Itinerarios
         }
 
         [BindProperty]
-        public AirBook.Models.Itinerario Itinerario { get; set; }
+        public AirBook.Models.Pasajero Pasajero { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int id)
         {
-            Itinerario = await _context.Itinerarios
-                .Include(i => i.Reserva)
-                .FirstOrDefaultAsync(m => m.IdItinerario == id);
+            Pasajero = await _context.Pasajeros.FindAsync(id);
 
-            if (Itinerario == null)
+            if (Pasajero == null)
             {
                 return NotFound();
             }
@@ -35,11 +32,11 @@ namespace AirBook.Pages.Itinerarios
 
         public async Task<IActionResult> OnPostAsync(int id)
         {
-            Itinerario = await _context.Itinerarios.FindAsync(id);
+            Pasajero = await _context.Pasajeros.FindAsync(id);
 
-            if (Itinerario != null)
+            if (Pasajero != null)
             {
-                _context.Itinerarios.Remove(Itinerario);
+                _context.Pasajeros.Remove(Pasajero);
                 await _context.SaveChangesAsync();
             }
 

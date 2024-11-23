@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\pasajero\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajero\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\pasajero\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajero\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\pasajero\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajero\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\pasajero\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\pasajero\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\itinerario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\itinerario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,6 +119,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajero\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajero\\Delete.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:50:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajero\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajero\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:48:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajero\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajero\\Create.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:47:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pasajero\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pasajero\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:47:05.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:46:17.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:45:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:44:47.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Itinerario\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:43:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Itinerario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Itinerario\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T15:43:44.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -108,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Index.cshtml",
@@ -116,12 +269,11 @@
               "RelativeToolTip": "Pages\\Itinerario\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T03:09:18.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T03:09:18.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Edit.cshtml.cs",
@@ -129,12 +281,11 @@
               "RelativeToolTip": "Pages\\Aerolinea\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:52:12.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:52:12.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Delete.cshtml.cs",
@@ -142,12 +293,11 @@
               "RelativeToolTip": "Pages\\Aerolinea\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:52:01.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:52:01.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Details.cshtml.cs",
@@ -155,12 +305,11 @@
               "RelativeToolTip": "Pages\\Aerolinea\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:51:53.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:51:53.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Index.cshtml.cs",
@@ -168,12 +317,11 @@
               "RelativeToolTip": "Pages\\Aerolinea\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:48:42.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:48:42.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml.cs",
@@ -181,12 +329,11 @@
               "RelativeToolTip": "Pages\\Aerolinea\\Create.cshtml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:47:13.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:47:13.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml",
@@ -194,12 +341,11 @@
               "RelativeToolTip": "Pages\\Aerolinea\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:47:09.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:47:09.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -207,12 +353,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T13:54:34.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:54:34.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "AirBookContext.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Data\\AirBookContext.cs",
               "RelativeDocumentMoniker": "Data\\AirBookContext.cs",
@@ -220,12 +365,11 @@
               "RelativeToolTip": "Data\\AirBookContext.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:53:39.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:53:39.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "Aerolinea.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Aerolinea.cs",
               "RelativeDocumentMoniker": "Models\\Aerolinea.cs",
@@ -233,12 +377,11 @@
               "RelativeToolTip": "Models\\Aerolinea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:55.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T23:21:55.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "Itinerario.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Itinerario.cs",
               "RelativeDocumentMoniker": "Models\\Itinerario.cs",
@@ -246,12 +389,11 @@
               "RelativeToolTip": "Models\\Itinerario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:45.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T23:21:45.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "Pasajero.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Pasajero.cs",
               "RelativeDocumentMoniker": "Models\\Pasajero.cs",
@@ -259,12 +401,11 @@
               "RelativeToolTip": "Models\\Pasajero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:32.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T23:21:32.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
@@ -272,12 +413,11 @@
               "RelativeToolTip": "Models\\Reserva.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:22.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T23:21:22.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Vuelo.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Vuelo.cs",
               "RelativeDocumentMoniker": "Models\\Vuelo.cs",
@@ -285,8 +425,7 @@
               "RelativeToolTip": "Models\\Vuelo.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA0wBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:21:13.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T23:21:13.031Z"
             }
           ]
         }
