@@ -1,0 +1,45 @@
+﻿@page
+@model AirBook.Pages.Vuelos.IndexModel
+@{
+    ViewData["Title"] = "Lista de Vuelos";
+}
+
+<h1>Lista de Vuelos</h1>
+
+<a asp-page="./Create" class="btn btn-success">Crear Nuevo Vuelo</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>IdVuelo</th>
+            <th>NumeroVuelo</th>
+            <th>Aerolinea</th> <!-- Nueva columna -->
+            <th>Origen</th>
+            <th>Destino</th>
+            <th>HoraSalida</th>
+            <th>HoraLlegada</th>
+            <th>Precio</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Vuelos)
+        {
+            <tr>
+                <td>@item.IdVuelo</td>
+                <td>@item.NumeroVuelo</td>
+                <td>@item.Aerolinea?.NombreAerolinea</td> <!-- Mostrar el nombre de la aerolínea -->
+                <td>@item.Origen</td>
+                <td>@item.Destino</td>
+                <td>@item.HoraSalida</td>
+                <td>@item.HoraLlegada</td>
+                <td>@item.Precio</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdVuelo" class="btn btn-warning">Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.IdVuelo" class="btn btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.IdVuelo" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
