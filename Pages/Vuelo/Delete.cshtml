@@ -1,0 +1,21 @@
+﻿@page
+@model AirBook.Pages.Vuelos.DeleteModel
+@{
+    ViewData["Title"] = "Eliminar Vuelo";
+}
+
+<h1>Eliminar Vuelo</h1>
+
+<h4>Vuelo</h4>
+<hr />
+<div>
+    <h4>¿Estás seguro que deseas eliminar este vuelo?</h4>
+    <div>
+        <h5>@Model.Vuelo.NumeroVuelo</h5>
+        <h5>@Model.Vuelo.Origen - @Model.Vuelo.Destino</h5>
+    </div>
+    <form method="post">
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-page="./Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>
