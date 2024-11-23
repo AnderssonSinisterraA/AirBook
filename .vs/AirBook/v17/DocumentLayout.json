@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\vuelo\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\vuelo\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\vuelo\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\vuelo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|c:\\users\\ansa0317\\source\\repos\\airbook\\pages\\vuelo\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A2C7F8F-3C88-40B5-B1E3-2EBF995B99DE}|AirBook.csproj|solutionrelative:pages\\vuelo\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -155,6 +171,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Vuelo\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Vuelo\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:06:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Vuelo\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Vuelo\\Details.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:05:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Vuelo\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Vuelo\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:04:24.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Vuelo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Vuelo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:04:19.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Create.cshtml.cs",
@@ -167,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Vuelo\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vuelo\\Index.cshtml.cs",
@@ -180,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -193,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Reserva\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Delete.cshtml.cs",
@@ -206,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Reserva\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Details.cshtml.cs",
@@ -219,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Reserva\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Edit.cshtml.cs",
@@ -232,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Reserva\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Index.cshtml.cs",
@@ -245,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Reserva\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reserva\\Create.cshtml.cs",
@@ -258,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Pasajero\\Details.cshtml.cs",
@@ -271,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Pasajero\\Delete.cshtml.cs",
@@ -284,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Pasajero\\Edit.cshtml.cs",
@@ -297,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Pasajero\\Create.cshtml.cs",
@@ -310,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Pasajero\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Pasajero\\Index.cshtml.cs",
@@ -323,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Create.cshtml.cs",
@@ -336,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Delete.cshtml.cs",
@@ -349,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Details.cshtml.cs",
@@ -362,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Edit.cshtml.cs",
@@ -375,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Edit.cshtml",
@@ -388,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -401,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Index.cshtml.cs",
@@ -414,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Itinerario\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Itinerario\\Index.cshtml",
@@ -426,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Edit.cshtml.cs",
@@ -438,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Delete.cshtml.cs",
@@ -450,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Details.cshtml.cs",
@@ -462,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Index.cshtml.cs",
@@ -474,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml.cs",
@@ -486,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Pages\\Aerolinea\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Aerolinea\\Create.cshtml",
@@ -498,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -510,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "AirBookContext.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Data\\AirBookContext.cs",
               "RelativeDocumentMoniker": "Data\\AirBookContext.cs",
@@ -522,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "Aerolinea.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Aerolinea.cs",
               "RelativeDocumentMoniker": "Models\\Aerolinea.cs",
@@ -534,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "Itinerario.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Itinerario.cs",
               "RelativeDocumentMoniker": "Models\\Itinerario.cs",
@@ -546,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Pasajero.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Pasajero.cs",
               "RelativeDocumentMoniker": "Models\\Pasajero.cs",
@@ -558,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
@@ -570,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Vuelo.cs",
               "DocumentMoniker": "C:\\Users\\ansa0317\\source\\repos\\AirBook\\Models\\Vuelo.cs",
               "RelativeDocumentMoniker": "Models\\Vuelo.cs",
