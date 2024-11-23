@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using AirBook.Data;
 using AirBook.Models;
 using System.Threading.Tasks;
+using AirBook.Data.AirBook.Data;
 
 namespace AirBook.Pages.Aerolineas
 {

@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using AirBook.Data;
 using AirBook.Models;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using AirBook.Data.AirBook.Data;
 
-namespace AirBook.Pages.Aerolineas
+namespace AirBook.Pages.Itinerarios
 {
     public class EditModel : PageModel
     {
@@ -18,16 +18,21 @@ namespace AirBook.Pages.Aerolineas
         }
 
         [BindProperty]
-        public AirBook.Models.Aerolinea Aerolinea { get; set; }
+        public AirBook.Models.Itinerario Itinerario { get; set; }
 
-        public async Task<IActionResult> OnGetAsync(int id)
+        public IActionResult OnGet(int id)
         {
-            Aerolinea = await _context.Aerolineas.FindAsync(id);
+            Itinerario = _context.Itinerarios
+                .Include(i => i.Reserva)
+                .FirstOrDefault(m => m.IdItinerario == id);
 
-            if (Aerolinea == null)
+            if (Itinerario == null)
             {
                 return NotFound();
             }
+
+            ViewData["ReservaId"] = new SelectList(_context.Reservas, "IdReserva", "IdReserva");
+
             return Page();
         }
 
@@ -38,13 +43,7 @@ namespace AirBook.Pages.Aerolineas
                 return Page();
             }
 
-            // Asegúrate de que el IdAerolinea tenga un valor válido
-            if (Aerolinea == null || Aerolinea.IdAerolinea == 0)
-            {
-                return BadRequest("Invalid Aerolinea ID.");
-            }
-
-            _context.Attach(Aerolinea).State = EntityState.Modified;
+            _context.Attach(Itinerario).State = EntityState.Modified;
 
             try
             {
@@ -52,7 +51,7 @@ namespace AirBook.Pages.Aerolineas
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!AerolineaExists(Aerolinea.IdAerolinea))
+                if (!ItinerarioExists(Itinerario.IdItinerario))
                 {
                     return NotFound();
                 }
@@ -65,9 +64,9 @@ namespace AirBook.Pages.Aerolineas
             return RedirectToPage("./Index");
         }
 
-        private bool AerolineaExists(int id)
+        private bool ItinerarioExists(int id)
         {
-            return _context.Aerolineas.Any(e => e.IdAerolinea == id);
+            return _context.Itinerarios.Any(e => e.IdItinerario == id);
         }
     }
 }
